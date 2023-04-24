@@ -1,0 +1,4 @@
+MONGO_URL = 'mongodb+srv://sashdcdev:socialapp1234@cluster0.vtv3zd0.mongodb.net/?retryWrites=true&w=majority'
+PORT = 3001
+
+JWT_SECRET = 'mysupersecretkey'
