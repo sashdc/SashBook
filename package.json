@@ -12,5 +12,11 @@
     "react-router-dom": "^6.10.0",
     "redux-persist": "^6.0.0",
     "yup": "^1.0.2"
+  },
+  "scripts": {
+    "start": "concurrently \"cd client && npm start\" \"cd server && node index.js\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
   }
 }
