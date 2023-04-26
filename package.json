@@ -15,6 +15,7 @@
   },
   "scripts": {
     "start": "concurrently \"cd client && npm start\" \"cd server && node index.js\""
+
   },
   "devDependencies": {
     "concurrently": "^8.0.1"
