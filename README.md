@@ -5,7 +5,7 @@ SashBook is Fullstack Responsive MERN Social Media App with Auth, Likes, & Dark 
 ## Table of Contents
 
 - [Overview](#overview)
-- [How to Use Clink](#how-to-use-clink)
+- [How to Use SashBook](#how-to-use-sashbook)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
 
